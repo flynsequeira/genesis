@@ -1,7 +1,10 @@
 {
   "name": "genesis",
   "nativescript": {
-    "id": "org.nativescript.genesis"
+    "id": "org.nativescript.genesis",
+    "tns-ios": {
+      "version": "5.2.1"
+    }
   },
   "version": "0.0.0",
   "scripts": {

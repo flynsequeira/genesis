@@ -130,5 +130,10 @@
       }
     }
   },
-  "defaultProject": "genesis"
+  "defaultProject": "genesis",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "css"
+    }
+  }
 }
